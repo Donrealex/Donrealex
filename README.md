@@ -7,8 +7,7 @@
 
 - 🔭 &nbsp; I’m currently learning FrontEnd Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Aspiring to be a fullStack Developer
-- 💼 &nbsp; Android developer and front-end web developer.
+- 🎓 &nbsp; Aspiring to be a fullStack Developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
