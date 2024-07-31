@@ -2,6 +2,7 @@
   <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250"/>
 
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Front+End+Web+Developer;Aspiring+Full-Stack+Developer!;It's+Nice+meeting+you...)](https://git.io/typing-svg)
 
 <h2> 👨🏻‍💻 About Me </h2>
 
