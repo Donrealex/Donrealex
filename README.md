@@ -15,7 +15,7 @@
 <h2>🛠 Tech Stack</h2>
  
 - 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap 
-- 🔧 &nbsp; Visual Studio code | Git
+- 🔧 &nbsp; Visual Studio code | Git |Node
 
 ### Languages and Tools:
 <p>
