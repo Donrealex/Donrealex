@@ -29,7 +29,7 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"  height="40" style="vertical-align:top; margin:4px">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"   height="40" style="vertical-align:top; margin:4px">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
- <a href="https://github.com/Oluwa-bunmi" target="_blank" rel="noreferrer"> 
+ <a href="https://github.com/Donrealex" target="_blank" rel="noreferrer"> 
 <img  src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" alt="GitHub"  height="40" style="vertical-align:top;   margin:4px">
  </a>
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
