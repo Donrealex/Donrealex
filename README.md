@@ -6,9 +6,9 @@
 
 <h2> 👨🏻‍💻 About Me </h2>
 
-- 🔭 &nbsp; I’m currently learning Front-end Web Development.
+- 🔭 &nbsp; I’m currently learning Front-Wnd Web Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Aspiring to be a fullStack Developer.
+- 🎓 &nbsp; Aspiring to be a full-Stack Developer.
 - 🌱 &nbsp; Enthusiast in full-stack developer and Artificial Intelligence.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
