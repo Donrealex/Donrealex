@@ -6,10 +6,10 @@
 
 <h2> 👨🏻‍💻 About Me </h2>
 
-- 🔭 &nbsp; I’m currently learning FrontEnd Development.
+- 🔭 &nbsp; I’m currently learning FrontEnd Web Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Aspiring to be a fullStack Developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
+- 🌱 &nbsp; Enthusiast in full-stack developer and Artificial Intelligence.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h2>🛠 Tech Stack</h2>
