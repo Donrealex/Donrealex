@@ -9,7 +9,7 @@
 - 🔭 &nbsp; I’m currently learning Front-End Web Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Aspiring to be a full-Stack Developer and Artificial Intelligence.
-- ☕ &nbsp;** I belive, a perfect cup of coffee can be the ultimate solution for any stress.** 
+- ☕ &nbsp;<b>I belive, a perfect cup of coffee can be the ultimate solution for any stress.</b> 
 
 <h2>🛠 Tech Stack</h2>
  
