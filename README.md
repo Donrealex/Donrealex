@@ -59,4 +59,4 @@
 &nbsp; <a href="mailto:donrealex11@gmail.com,adebiyiridwan91@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From <b> [Donrealex](https://github.com/Donrealex/)</b>
+<b>⭐️ From  [Donrealex](https://github.com/Donrealex/)</b>
