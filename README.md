@@ -6,9 +6,9 @@
 
 <h2> 👨🏻‍💻 About Me </h2>
 
-- 🔭 &nbsp; I’m currently learning Front-End Web Development.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Aspiring to be a full-Stack Developer and Artificial Intelligence.
+- 🔭 &nbsp;<b> I’m currently learning Front-End Web Development.</b>
+- 🤔 &nbsp;<b> Exploring new technologies and developing software solutions and quick hacks.</b>
+- 🎓 &nbsp;<b> Aspiring to be a full-Stack Developer and Artificial Intelligence.</b>
 - ☕ &nbsp;<b>I belive, a perfect cup of coffee can be the ultimate solution for any stress.</b> 
 
 <h2>🛠 Tech Stack</h2>
@@ -50,7 +50,7 @@
 
 
 
-<h2> 🤝🏻 Connect with Me </h2>
+<h1> 🤝🏻 Connect with Me </h1>
 
 <p align="center">
 &nbsp; <a href="https://x.com/Donrealex1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
@@ -59,4 +59,4 @@
 &nbsp; <a href="mailto:donrealex11@gmail.com,adebiyiridwan91@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [Donrealex](https://github.com/Donrealex/)
+⭐️ From>b> [Donrealex]</b>(https://github.com/Donrealex/)
