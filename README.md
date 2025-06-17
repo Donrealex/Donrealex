@@ -13,7 +13,7 @@
 
 <h2>🛠 Tech Stack</h2>
  
-- 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp;  HTML | CSS | JavaScript | Tailwind 
 - 🔧 &nbsp; Visual Studio code | Git |Node
 
 ### Languages and Tools:
