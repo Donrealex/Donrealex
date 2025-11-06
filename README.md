@@ -6,9 +6,9 @@
 
 <h2> 👨🏻‍💻 About Me </h2>
 
-- 🔭 &nbsp;<b> I’m currently learning Front-End Web Development.</b>
-- 🤔 &nbsp;<b> Exploring new technologies and developing software solutions and quick hacks.</b>
+- 🔭 &nbsp;<b> I’m a Front-End Web Developer.</b>
 - 🎓 &nbsp;<b> Aspiring to be a full-Stack Developer and Artificial Intelligence.</b>
+- 🤔 &nbsp;<b> Exploring new technologies and developing software solutions and quick hacks.</b>
 - ☕ &nbsp;<b>I belive, a perfect cup of coffee can be the ultimate solution for any stress.</b> 
 
 <h2>🛠 Tech Stack</h2>
